@@ -1,0 +1,11 @@
+node_modules
+.idea
+
+.env
+commands.md
+api-docs.md
+fillable-sql.txt
+match-logs.txt
+match-debug-logs.txt
+match-debug-logs-v2.txt
+match-many-times.txt
